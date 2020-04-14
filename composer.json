@@ -1,5 +1,5 @@
 {
-    "name": "Innoit/Test composer",
+    "name": "Innoit/Testcomposer",
     "description": "Composer",
     "version": "1.0.0",
     "autoload": {

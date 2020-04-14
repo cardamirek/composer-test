@@ -1,0 +1,10 @@
+{
+    "name": "Innoit/Test composer",
+    "description": "Composer",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-0": {
+            "MojeJmeno": "lib/"
+        }
+    }
+}
